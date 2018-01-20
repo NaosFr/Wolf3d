@@ -9,5 +9,5 @@ make
 ```
 
 ```
-./wolf3d map.tx
+./wolf3d map.txt
 ```
